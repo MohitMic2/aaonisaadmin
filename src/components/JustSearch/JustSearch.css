@@ -1,0 +1,25 @@
+.just-search{
+    margin-top: 80px;
+}
+.add-category h1{
+    font-weight: 600;
+    font-size: 20px;
+    width: 90%;
+    margin: auto;
+}
+.category-input {
+    /* border: 1px solid #000; */
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+   display: flex;
+   flex-direction: column;
+    gap: 15px;
+}
+.category-input input{
+    border: 1px solid #000;
+    padding: 7px 35px;
+}
+.upload-add{
+    margin-top: 20px;
+}

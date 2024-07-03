@@ -1,0 +1,26 @@
+.milan{
+    margin-top: 100px;
+}
+.testimonial-section{
+    /* border: 1px solid #000; */
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+
+
+    >h1{
+        font-weight: 600;
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+}
+.add-data-testimonial{
+    display: flex;
+    /* border: 1px solid #000; */
+    gap: 10px;
+}
+.privacy-policy{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}

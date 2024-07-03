@@ -1,0 +1,59 @@
+.create-code{
+    margin-top: 100px;
+    width: 100%;
+}
+.create-input{
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.create-input p{
+    font-weight: 600;
+    margin-right: 5px;
+}
+.create-personal{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.create-personal h2{
+    width: 90%;
+    margin: auto;
+    font-weight: 600;
+    font-size:18px ;
+}
+.create-personal form{
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.details-row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.create-bank{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+}
+.create-bank form{
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+.create-bank h2{
+    width: 90%;
+    margin: auto;
+    font-weight: 600;
+    font-size:18px ;
+}
+.create-button{
+    
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
