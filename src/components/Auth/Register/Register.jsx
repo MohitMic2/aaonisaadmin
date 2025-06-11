@@ -37,7 +37,6 @@ export default function Register() {
         localStorage.setItem("name", name)
         toast.success("User registered Successfully")
         history.push("/admin/default")
-        window.location.reload()
         // Save user data to Realtime Database
       
 
@@ -83,7 +82,7 @@ export default function Register() {
               colorScheme={'blue'}
               variant={'solid'}
               onClick={registerHandler}>
-              Sign in
+              Sign up
             </Button>
           </Stack>
         </Stack>

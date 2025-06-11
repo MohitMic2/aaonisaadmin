@@ -30,7 +30,6 @@ export default function Login() {
       toast.success("logedin successfully")
       localStorage.setItem("name", email)
       history.push("/admin/default")
-      window.location.reload()
     })
     .catch((error) => {
       const errorCode = error.code;
